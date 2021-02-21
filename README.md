@@ -28,4 +28,4 @@
 
 ## 尋求幫助
 
-若有問題，請至 [`rlads2021/hw1` 的 Issues](https://github.com/rlads2019/hw1/issues) 提出，提問前請**務必先閱讀[提問注意事項](https://rlads2021.github.io/lab/#qa-guide)**。
+若有問題，請至 [`rlads2021/hw1` 的 Issues](https://github.com/rlads20/hw1/issues) 提出，提問前請**務必先閱讀[提問注意事項](https://rlads2021.github.io/lab/#qa-guide)**。
